@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">credencialmunicipalidad</string>
+    <string name="nombre_completo">Nombre completo</string>
+    <string name="rut_123456789_1">Rut: 123456789-1</string>
+    <string name="cargo_gerencia">Cargo: Gerencia</string>
+    <string name="id_1234560">Id: 1234560</string>
+    <string name="ver_c_digo_qr">Ver código QR</string>
+</resources>
